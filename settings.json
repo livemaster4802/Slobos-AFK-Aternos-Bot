@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Play_KratosSMP.aternos.me:27292",
+    "port": 27292,
     "version": "",
     "try-creative": false
   },
