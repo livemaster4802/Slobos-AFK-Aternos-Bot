@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Play_KratosSMP.aternos.me,
+    "ip": "Play_KratosSMP.aternos.me",
     "port": 27292,
     "version": "",
     "try-creative": false
