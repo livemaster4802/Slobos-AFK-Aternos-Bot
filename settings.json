@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Play_KratosSMP.aternos.me",
-    "port": 27292,
+    "ip": "PlayzCraftSMP.aternos.me",
+    "port": 22210,
     "version": "",
     "try-creative": false
   },
